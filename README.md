@@ -15,7 +15,3 @@ An Object-Oriented Programming (OOP) mini-project designed to simulate a smart h
 2. **Inheritance**: Subclasses leverage the common parent class constructor via `super()`.
 3. **Polymorphism**: Overridden `display_info()` methods across child classes.
 
-## How to Run
-Ensure you have Python 3 installed. Run the application via terminal:
-```bash
-python main.py
